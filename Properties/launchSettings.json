@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileProject": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Projects\\FileProject\\testData"
+    }
+  }
+}
