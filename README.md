@@ -17,5 +17,6 @@ Hello! Welcome to this basic file reader project. In this project, I would like 
 ### From the command line
 `dotnet publish --self-contained true -p:PublishSingleFile=true`
 
-Publish to the Task Scheduler in Windows
-View Event logs in the Event Viewer
+#### Publish to the Task Scheduler in Windows
+#### View Event logs in the Event Viewer
+
